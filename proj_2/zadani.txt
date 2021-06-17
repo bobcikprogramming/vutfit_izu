@@ -1,0 +1,5 @@
+8, Zjištění, zdali rozdíl mezi dvěma následnými čísly v neprázdném seznamu je vždy menší nebo stejný, než je zadané číslo
+uloha8(SEZNAM, ROZDIL)
+     % SEZNAM je seznam s nejméně dvěma prvky typu Integer.
+     % ROZDIL je maximální možný rozdíl mezi dvěma následnými
+     % prvky v seznamu SEZNAM
